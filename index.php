@@ -13,28 +13,49 @@
 </head>
 <body class="is-loading">
 <div id="wrapper">
-	<section id="main">
-		<header>
-			<span class="avatar"><img src="images/new_me.jpg" alt="Profile Picture of me"/></span>
+	<section id="information">
+		<div class="basic-information">
+			<span class="dividing-line"><img src="images/new_me.jpg" alt="Profile Picture of me"/></span>
 			<h1>Markus Händler</h1>
             <ul>
                 <li>Fachinformatiker für Anwendungsentwicklung</li>
                 <li>Technischer Assistent für Informatik</li>
             </ul>
-		</header>
+		</div>
 		<hr/>
-		<footer>
+		<div class="contact-details">
 			<ul class="icons">
 				<li><a href="mailto:info@mhaendler.me" class="fa-envelope"></a></li>
 				<li><a target="_blank" title="Link to Xing Profile" href="https://www.xing.com/profile/Markus_Haendler2" class="fa-xing">Xing</a></li>
 				<li><a target="_blank" title="Link to Linked In Profile" href="https://www.linkedin.com/in/markus-h%C3%A4ndler-942636164/" class="fa-linkedin">LinkedIn</a>
 				</li>
 			</ul>
-		</footer>
+		</div>
 	</section>
+    <div class="page-break"></div>
+    <section id="curriculum-vitae">
+        <div class="dividing-line"><h2>Kurzes Faktenblatt</h2></div>
+        <div class="headline">Ausbildung</div>
+        <div class="curriculum-vitae-entry">
+            <div class="text-bold text-left fa-pull-left">2009 - 2011</div>
+            <div class="fa-pull-right">Technischer Assistent für Informatik</div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="curriculum-vitae-entry">
+            <div class="text-bold text-left fa-pull-left">2011 - 2013</div>
+            <div class="fa-pull-right">Fachinformatiker für Anwendungsentwicklung</div>
+        </div>
+        <div class="clearfix"></div>
+        <hr />
+        <div class="clearfix"></div>
+        <div class="headline">Tätigkeit</div>
+        <div class="curriculum-vitae-entry">
+            <div class="text-bold text-left fa-pull-left">2013 - ?</div>
+            <div class="fa-pull-right">Webentwickler bei der <em>Allbytes GmbH</em></div>
+        </div>
+        <div class="clearfix"></div>
+    </section>
 </div>
-<!--[if lte IE 8]>
-<script src="assets/js/respond.min.js"></script><![endif]-->
 <script>
 	if ('addEventListener' in window) {
 		window.addEventListener('load', function () {
@@ -43,6 +64,5 @@
 		document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
 	}
 </script>
-
 </body>
 </html>
