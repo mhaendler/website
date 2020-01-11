@@ -53,7 +53,7 @@
         <hr />
         <div class="curriculum-vitae-headline taetigkeiten-width">Tätigkeit</div>
         <div class="curriculum-vitae-entry">
-            <div class="time">2013 - ?</div>
+            <div class="time">Seit 2013</div>
             <div class="training">Webentwickler bei der Firma <em>Allbytes GmbH</em></div>
             <div class="clearfix"></div>
         </div>
