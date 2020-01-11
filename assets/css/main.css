@@ -894,7 +894,7 @@ body.is-ie #wrapper {
 }
 
 .page-break{
-	min-height: 100px;
+	min-height: 40px;
 }
 
 .text-left{
