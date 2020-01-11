@@ -33,27 +33,30 @@
 		</div>
 	</section>
     <div class="page-break"></div>
+    <section id="about-me">
+
+    </section>
+    <div class="page-break"></div>
     <section id="curriculum-vitae">
         <div class="dividing-line"><h2>Kurzes Faktenblatt</h2></div>
         <div class="headline">Ausbildung</div>
         <div class="curriculum-vitae-entry">
-            <div class="text-bold text-left fa-pull-left">2009 - 2011</div>
-            <div class="fa-pull-right">Technischer Assistent für Informatik</div>
+            <div class="time">2009 - 2011</div>
+            <div class="training">Technischer Assistent für Informatik</div>
+            <div class="clearfix"></div>
         </div>
-        <div class="clearfix"></div>
         <div class="curriculum-vitae-entry">
-            <div class="text-bold text-left fa-pull-left">2011 - 2013</div>
-            <div class="fa-pull-right">Fachinformatiker für Anwendungsentwicklung</div>
+            <div class="time">2011 - 2013</div>
+            <div class="training">Fachinformatiker für Anwendungsentwicklung</div>
+            <div class="clearfix"></div>
         </div>
-        <div class="clearfix"></div>
         <hr />
-        <div class="clearfix"></div>
         <div class="headline">Tätigkeit</div>
         <div class="curriculum-vitae-entry">
-            <div class="text-bold text-left fa-pull-left">2013 - ?</div>
-            <div class="fa-pull-right">Webentwickler bei der <em>Allbytes GmbH</em></div>
+            <div class="time">2013 - ?</div>
+            <div class="training">Webentwickler bei der Firma <em>Allbytes GmbH</em></div>
+            <div class="clearfix"></div>
         </div>
-        <div class="clearfix"></div>
     </section>
 </div>
 <script>

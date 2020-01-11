@@ -685,7 +685,8 @@ button:disabled,
 #information, #curriculum-vitae{
 	position: relative;
 	max-width: 100%;
-	min-width: 27em;
+	width: 40em;
+	min-width: 30em;
 	padding: 3em 3em 3em 3em;
 	background: #ffffff;
 	border-radius: 4px;
@@ -829,14 +830,6 @@ body.is-loading #information {
 	display: block;
 }
 
-@media screen and (max-width: 360px) {
-
-	#wrapper {
-		padding: 0.75em;
-	}
-
-}
-
 body.is-ie #wrapper {
 	height: 100%;
 }
@@ -901,7 +894,7 @@ body.is-ie #wrapper {
 }
 
 .page-break{
-	min-height: 500px;
+	min-height: 100px;
 }
 
 .text-left{
@@ -913,3 +906,27 @@ body.is-ie #wrapper {
 .clearfix{
 	clear: both;
 }
+
+.curriculum-vitae-entry{
+	text-align: left;
+}
+
+.curriculum-vitae-entry .time{
+	float: left;
+	font-weight: bold;
+	width: 25%;
+}
+
+.curriculum-vitae-entry .training{
+	width: 70%;
+	margin-left: 35%;
+}
+
+@media screen and (max-width: 360px) {
+
+	#wrapper {
+		padding: 0.75em;
+	}
+
+}
+
