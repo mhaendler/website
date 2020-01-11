@@ -39,7 +39,7 @@
     <div class="page-break"></div>
     <section id="curriculum-vitae">
         <div class="dividing-line"><h2>Kurzes Faktenblatt</h2></div>
-        <div class="headline">Ausbildung</div>
+        <div class="curriculum-vitae-headline">Ausbildung</div>
         <div class="curriculum-vitae-entry">
             <div class="time">2009 - 2011</div>
             <div class="training">Technischer Assistent für Informatik</div>
@@ -51,7 +51,7 @@
             <div class="clearfix"></div>
         </div>
         <hr />
-        <div class="headline">Tätigkeit</div>
+        <div class="curriculum-vitae-headline taetigkeiten-width">Tätigkeit</div>
         <div class="curriculum-vitae-entry">
             <div class="time">2013 - ?</div>
             <div class="training">Webentwickler bei der Firma <em>Allbytes GmbH</em></div>

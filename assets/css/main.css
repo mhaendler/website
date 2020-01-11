@@ -907,6 +907,15 @@ body.is-ie #wrapper {
 	clear: both;
 }
 
+#curriculum-vitae .curriculum-vitae-headline{
+	width: 100%;
+	margin-bottom: 1em;
+}
+#curriculum-vitae .taetigkeiten-width{
+	width: 95%;
+}
+
+
 .curriculum-vitae-entry{
 	text-align: left;
 }
@@ -919,7 +928,7 @@ body.is-ie #wrapper {
 
 .curriculum-vitae-entry .training{
 	width: 70%;
-	margin-left: 30%;
+	margin-left: 39%;
 }
 
 @media screen and (max-width: 360px) {
