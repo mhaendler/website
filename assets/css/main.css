@@ -682,7 +682,7 @@ button:disabled,
 
 /* Main */
 
-#information, #curriculum-vitae{
+#information, #curriculum-vitae, #about-me{
 	position: relative;
 	max-width: 100%;
 	width: 40em;
@@ -713,7 +713,7 @@ button:disabled,
 	margin-bottom: 1.5em
 }
 
-.dividing-line img, .dividing-line h2{
+.dividing-line img, .dividing-line h2, .dividing-line h3{
 	background-color: white;
 	display: block;
 	margin: 0 auto;
@@ -750,7 +750,9 @@ button:disabled,
 
 }
 
-body.is-loading #information {
+body.is-loading #information,
+body.is-loading #curriculum-vitae,
+body.is-loading #about-me{
 	opacity: 0;
 	-moz-transform: rotateX(15deg);
 	-webkit-transform: rotateX(15deg);
