@@ -682,7 +682,7 @@ button:disabled,
 
 /* Main */
 
-#information, #curriculum-vitae, #about-me{
+#information, #curriculum-vitae, #about-me, #datenschutz{
 	position: relative;
 	max-width: 100%;
 	width: 40em;
@@ -723,6 +723,14 @@ button:disabled,
 	max-height: 122px;
 }
 
+#datenschutz{
+	text-align: left;
+}
+
+#datenschutz .dividing-line h2{
+	max-width: 260px;
+}
+
 .dividing-line:before {
 	content: '';
 	display: block;
@@ -752,7 +760,8 @@ button:disabled,
 
 body.is-loading #information,
 body.is-loading #curriculum-vitae,
-body.is-loading #about-me{
+body.is-loading #about-me,
+body.is-loading #datenschutz{
 	opacity: 0;
 	-moz-transform: rotateX(15deg);
 	-webkit-transform: rotateX(15deg);
@@ -762,16 +771,12 @@ body.is-loading #about-me{
 
 /* Footer */
 
-#footer {
-	-moz-align-self: -moz-flex-end;
-	-webkit-align-self: -webkit-flex-end;
-	-ms-align-self: -ms-flex-end;
-	align-self: flex-end;
+footer{
 	width: 100%;
-	padding: 1.5em 0 0 0;
-	color: rgba(255, 255, 255, 0.75);
-	cursor: default;
-	text-align: center;
+}
+
+footer a{
+	color: white;
 }
 
 #footer .copyright {
