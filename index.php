@@ -1,24 +1,4 @@
 <?php require('header.php'); ?>
-	<section id="information">
-		<div class="basic-information">
-			<span class="dividing-line"><img src="images/new_me.jpg" alt="Profile Picture of me"/></span>
-			<h1>Markus Händler</h1>
-            <ul>
-                <li>Fachinformatiker für Anwendungsentwicklung</li>
-                <li>Technischer Assistent für Informatik</li>
-            </ul>
-		</div>
-		<hr/>
-		<div class="contact-details">
-			<ul class="icons">
-				<li><a href="mailto:info@mhaendler.me" class="fa-envelope"></a></li>
-				<li><a target="_blank" title="Link to Xing Profile" href="https://www.xing.com/profile/Markus_Haendler2" class="fa-xing">Xing</a></li>
-				<li><a target="_blank" title="Link to Linked In Profile" href="https://www.linkedin.com/in/markus-h%C3%A4ndler-942636164/" class="fa-linkedin">LinkedIn</a></li>
-                <li><a target="_blank" title="Link to my Github Profile" class="fa-github" href="https://github.com/mhaendler">Github</a></li>
-			</ul>
-		</div>
-	</section>
-    <div class="page-break"></div>
     <section id="about-me">
         <div class="dividing-line"><h2>Über mich</h2></div>
         <p>Vater, Programmierer und Hundebesitzer. Das sind so die 3 wichtigsten Schlagworte wie man mich beschreiben kann.</p>
@@ -49,6 +29,11 @@
         <div class="curriculum-vitae-entry">
             <div class="time">Seit 2013</div>
             <div class="training">Webentwickler bei der Firma <em>Allbytes GmbH</em></div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="curriculum-vitae-entry">
+            <div class="time">Seit August 2018</div>
+            <div class="training">Freier Software-Entwickler</div>
             <div class="clearfix"></div>
         </div>
     </section>
