@@ -33,7 +33,7 @@
         </div>
         <div class="curriculum-vitae-entry">
             <div class="time">Seit August 2018</div>
-            <div class="training">Freier Software-Entwickler</div>
+            <div class="training">Freelance Software Developer</div>
             <div class="clearfix"></div>
         </div>
     </section>

@@ -11,10 +11,9 @@
     <p>
         E-Mail: <a href="mailto:info@mhaendler.me">info@mhaendler.me</a>
     </p>
-    <h4>Umsatzsteuer</h4>
+    <h4>USt-ID-Nr. gemäß §27a UStG:</h4>
     <p>
-        Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:<br />
-        ????
+        DE320073270
     </p>
 </section>
 <?php require('footer.php'); ?>

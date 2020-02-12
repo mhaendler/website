@@ -719,7 +719,7 @@ button:disabled,
 	margin: 0 auto;
 	border-radius: 100%;
 	box-shadow: 0 0 0 1.5em #ffffff;
-	max-width: 140px;
+	max-width: 150px;
 	max-height: 122px;
 }
 
@@ -938,6 +938,10 @@ body.is-ie #wrapper {
 .curriculum-vitae-entry .training{
 	width: 70%;
 	margin-left: 39%;
+}
+
+#about-me h4{
+	text-transform: none;
 }
 
 @media screen and (max-width: 360px) {
