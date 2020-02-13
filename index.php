@@ -1,13 +1,13 @@
 <?php require('header.php'); ?>
     <section id="about-me">
         <div class="dividing-line"><h2>Über mich</h2></div>
-        <p>Vater, Programmierer und Hundebesitzer. Das sind so die 3 wichtigsten Schlagworte wie man mich beschreiben kann.</p>
+        <p>Vater, Programmierer und Hundebesitzer. Das sind so die 3 wichtigsten Schlagworte die mich beschreiben.</p>
         <p>Vor über 14 Jahren endeckte ich meine Leidenschaft zu programmieren. Von Webseiten, über Crawler / Bots, bis hin zu
             individuellen Softwarelösungen oder Automatisierungen.
         </p>
-        <p>In meiner "Freizeit" arbeite ich als Freelancer für Webseiten und Anwendungen und nutze diese Gelegenheiten
-           um stetig weiterzuentwickeln und mich in neue Technologien einzuarbeiten. Damit ich meine Kunden
-            immer besser bedienen und meinen Drang neues zu lernen befrieden kann
+        <p>In meiner "Freizeit" arbeite ich als Freelancer für Webseiten und Anwendungen. Ich nutze diese Gelegenheiten
+           um mich weiterzuentwickeln und in neue Technologien einzuarbeiten. Damit ich meine Kunden
+            immer besser bedienen und meinen Drang neues zu lernen befrieden kann.
         </p>
     </section>
     <div class="page-break"></div>
