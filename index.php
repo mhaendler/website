@@ -28,12 +28,18 @@
         <div class="curriculum-vitae-headline taetigkeiten-width">Tätigkeit</div>
         <div class="curriculum-vitae-entry">
             <div class="time">2013 - 2020</div>
-            <div class="training">Webentwickler bei der Firma <em>Allbytes GmbH</em></div>
+            <div class="training">Webentwickler bei der Firma <em><a target="_blank" href="https://www.allbytes.de/">Allbytes GmbH</a></em></div>
             <div class="clearfix"></div>
         </div>
         <div class="curriculum-vitae-entry">
-            <div class="time">2021</div>
-            <div class="training">IT-Systemadministrator bei der Firma <em>Regnauer Hausbau GmbH & Co. KG</em></div>
+            <div class="time">2021 - 2022</div>
+            <div class="training">IT-Systemadministrator bei der Firma
+                <em><a target="_blank" href="https://www.regnauer.de/">Regnauer Hausbau GmbH & Co. KG</a></em></div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="curriculum-vitae-entry">
+            <div class="time">Seit September 2022</div>
+            <div class="training">Webentwickler bei der Firma <em><a target="_blank" href="https://www.auer-packaging.com/">Auer Packaging GmbH</a></em></div>
             <div class="clearfix"></div>
         </div>
         <div class="curriculum-vitae-entry">
